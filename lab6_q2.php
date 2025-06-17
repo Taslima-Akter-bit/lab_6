@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Lab 5a Q2</title>
+    <title>Lab 6 Q2</title>
 </head>
 <body>
     <?php
