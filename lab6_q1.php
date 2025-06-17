@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Lab 5a Q1</title>
+    <title>Lab 6 Q1</title>
 </head>
 <body>
     <?php
         $name = "TASLIMA AKTER";
-        $matricNumber = "BI220016";
+        $matricNumber = "DI230020";
         $course = "Bachelor of Information Tecnology";
         $yearOfStudy = "2nd Year";
         $address = "Jalan 2,taman university, Parit Raja";
