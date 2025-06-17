@@ -5,7 +5,7 @@
 </head>
 <body>
     <?php
-        $name = "ABDUL ALIM";
+        $name = "TASLIMA AKTER";
         $matricNumber = "BI220016";
         $course = "Bachelor of Information Tecnology";
         $yearOfStudy = "2nd Year";
